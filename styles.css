@@ -28,6 +28,7 @@ h2 {
 
 nav {
   text-align: right;
+  margin-right: 20px;
 }
 
 p {
@@ -44,7 +45,6 @@ a {
 
 span {
   margin-left: 10px;
-  
 }
 
 span:hover {
@@ -193,7 +193,7 @@ form {
     text-align: center;
   }
   span {
-    margin-right: 0px;
+    margin-right: 10px;
   }
   .post {
     text-align: center;
