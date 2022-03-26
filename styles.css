@@ -145,6 +145,19 @@ form {
   margin-right: auto;
 }
 
+#fname {
+    width: 100%;
+}
+
+#lname {
+    width: 100%;
+}
+
+#summary {
+    width: 100%;
+    height: 200px;
+}
+
 .footer {
   padding: 10px 10px 10px 10px;
   display: block;
